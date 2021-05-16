@@ -1,0 +1,17 @@
+{
+  "name": "two-factors",
+  "version": "1.0.0",
+  "description": "Two factors authentication with nodemailer for security class, i really don't get it but lets do it whatever hur dur whatever look how long is this description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemailer": "^6.6.0"
+  }
+}
